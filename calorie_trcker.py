@@ -1,5 +1,11 @@
+#########################################
+#name : Nishant Kumar
+#class : Btech DS 
+#roll no : 2501420046
+#########################################
+
 # Task 1: Welcome Message
-print("Welcome to Daily Calorie Tracker!")
+print("Hello , Welcome to Daily Calorie Tracker!")
 print("This tool helps you record your meals, calculate total calories compare with your daily limit, and optionally save your session")
 # Task 2: Input & Data Collection
 meals = []
@@ -34,4 +40,5 @@ print("--------------------------------------------")
 print(f"Total:               {total_calories}")
 print(f"Average:             {average_calories}")
 print(f"Status:              {status_message}")
+
 print("--------------------------------------------")
